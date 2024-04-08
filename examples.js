@@ -3,7 +3,7 @@ function max1(number1, number2) {
     return (number1 > number2) ? number1 : number2;
 }
 
-console.log(max1(4, 9))
+console.log(max1(14, 9))
 
 //
 function isLandscape(width, height) {
